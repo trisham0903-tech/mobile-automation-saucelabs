@@ -23,17 +23,22 @@ jobs:
             Write-Host "Project structure looks good."
           }
 
-      
+     
       - name: Prepare Artifact Folder
         shell: pwsh
         run: |
           $artifactPath = "$PWD/UiPathProjectBackup"
           if (Test-Path $artifactPath) { Remove-Item -Recurse -Force $artifactPath }
           New-Item -ItemType Directory -Path $artifactPath
-          Copy-Item -Path "$PWD/*" -Destination $artifactPath -Recurse -Force
+
+          # Copy all files except the artifact folder itself
+          Get-ChildItem -Path $PWD | Where-Object { $_.Name -ne 'UiPathProjectBackup' } | ForEach-Object {
+              Copy-Item -Path $_.FullName -Destination $artifactPath -Recurse -Force
+          }
+
           Write-Host "Project copied to artifact folder: $artifactPath"
 
-      
+     
       - name: Upload UiPath Project Artifact
         uses: actions/upload-artifact@v4
         with:
