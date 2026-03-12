@@ -12,10 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup UiPath CLI
-        uses: Mikael-RnD/setup-uipath@v2
-
-      - name: Pack UiPath project
-        shell: pwsh
-        run: |
-          uipcli pack .
+      - name: Upload UiPath project as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: uipath-project
+          path: .
