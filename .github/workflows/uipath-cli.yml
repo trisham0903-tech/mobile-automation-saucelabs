@@ -18,8 +18,9 @@ jobs:
           dotnet-version: '6.0.x'
 
       - name: Install UiPath CLI
+        shell: powershell
         run: |
-          curl -L https://github.com/UiPath/uipathcli/releases/latest/download/uipathcli-windows.zip -o uipathcli.zip powershell Expand-Archive uipathcli.zip -DestinationPath uipathcli
+          Invoke-WebRequest https://github.com/UiPath/uipathcli/releases/latest/download/uipathcli-windows.zip -OutFile uipathcli.zip; Expand-Archive uipathcli.zip -DestinationPath uipathcli
 
       - name: Pack UiPath Project
         run: |
