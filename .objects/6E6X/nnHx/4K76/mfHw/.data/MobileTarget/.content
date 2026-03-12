@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Bhp_B8PBbUO8ksQYV104OQ" DesignTimeRectangle="142, 626, 107, 23" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='BACK HOME' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='BACK HOME' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='BACK HOME' id='' accessibilityId='' check:text='BACK HOME' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='BACK HOME' id='' accessibilityId='' check:text='BACK HOME' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="BACK HOME" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="20, 190, 352, 26" FullSelector="&lt;mbl android:className='android.widget.TextView' text='THANK YOU FOR YOU ORDER' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='THANK YOU FOR YOU ORDER' id='' accessibilityId='' check:text='THANK YOU FOR YOU ORDER' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="THANK YOU FOR YOU ORDER">
+        <imageRef attrName="ImageBase64" xmlns="">1_1n59StDm0O5OhK4adEsFw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0I6OtmtAfyUCNJW8GZEB79Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="42db31b11ebef3f0dafc368221331d0c.png" xmlns="">42db31b11ebef3f0dafc368221331d0c.png</imageRef>
+</Target>

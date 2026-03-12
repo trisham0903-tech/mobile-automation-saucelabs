@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Last Name' Text Field",
+  "Description": "This indicates the Last Name text field in the checkout page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "HvjsAm23xESC-owrOPomCg",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/HvjsAm23xESC-owrOPomCg",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/kJ1yfjpxBUe2Q2PFR2c6yA",
+  "Created": "2026-02-10T07:21:51.3645844Z",
+  "Updated": "2026-02-10T07:21:51.3645844Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

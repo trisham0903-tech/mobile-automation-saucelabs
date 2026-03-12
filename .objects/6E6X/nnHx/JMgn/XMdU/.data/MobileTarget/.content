@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="u9h2c3rCLEyci63NIhg6Qw" DesignTimeRectangle="40, 386, 312, 49" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-LOGIN' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-LOGIN' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-LOGIN' id='' text='' check:text='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-LOGIN' id='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="40, 118, 312, 56" FullSelector="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-Login' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' idx='1' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-Login' id='' text='' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">8ih8VPJSt_0yiVU9gsyRMNA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">07W60Aom12ESR6hBpuRPHlg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fdd488315e1e3a58db25d2507911a527.png" xmlns="">fdd488315e1e3a58db25d2507911a527.png</imageRef>
+</Target>

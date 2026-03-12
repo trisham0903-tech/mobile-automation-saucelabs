@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Product Name In Cart",
+  "Description": "This indicates the first product name that is present in the cart",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "rPg5Xdeh_EKNwKtQdJlZNg",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/rPg5Xdeh_EKNwKtQdJlZNg",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/2qy3217IAUy-Ayity75sUw",
+  "Created": "2026-02-10T06:49:09.4719893Z",
+  "Updated": "2026-02-10T06:49:09.4719893Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

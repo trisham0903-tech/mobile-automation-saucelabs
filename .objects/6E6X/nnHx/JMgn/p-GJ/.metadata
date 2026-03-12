@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Password' Text Field",
+  "Description": "This indicates the Password text field in the Login page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "p-GJI9H48kGk4-evc9bljQ",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/p-GJI9H48kGk4-evc9bljQ",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/JMgn1HNXh0COXTzQ61CdlQ",
+  "Created": "2026-02-10T07:47:22.0427784Z",
+  "Updated": "2026-02-10T07:47:22.0427784Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/qboticopfkpu/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "a652c095-6174-0000-cd3e-0b495033e3df",
+    "name": "SwagLabs_Test Automation",
+    "key": "STA"
+  }
+}

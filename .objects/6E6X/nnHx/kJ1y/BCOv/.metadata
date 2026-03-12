@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Postal Code Validation Message",
+  "Description": "This is the validation message that is displayed when the Postal code is left empty in the checkout information page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "BCOvzPRJM02EHqqycvaCYQ",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/BCOvzPRJM02EHqqycvaCYQ",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/kJ1yfjpxBUe2Q2PFR2c6yA",
+  "Created": "2026-02-10T07:42:37.1556252Z",
+  "Updated": "2026-02-10T07:42:37.1556252Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

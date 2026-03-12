@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Pincode' Text Field",
+  "Description": "This indicates the \"Pincode\" Text field in the checkout information",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "M8wOzn-NRUiyd55tKoQCkw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/M8wOzn-NRUiyd55tKoQCkw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/kJ1yfjpxBUe2Q2PFR2c6yA",
+  "Created": "2026-02-10T07:23:47.5919029Z",
+  "Updated": "2026-02-10T07:23:47.5919029Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

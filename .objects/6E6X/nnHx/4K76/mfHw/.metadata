@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Back Home' Button",
+  "Description": "This indicates the \"Back Home\" button in the checkout complete page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "mfHw0ocbBki-3OOf1baUDQ",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/mfHw0ocbBki-3OOf1baUDQ",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/4K76aaopAU6wk9r82ySD3g",
+  "Created": "2026-02-10T07:30:59.0395017Z",
+  "Updated": "2026-02-10T07:30:59.0395017Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

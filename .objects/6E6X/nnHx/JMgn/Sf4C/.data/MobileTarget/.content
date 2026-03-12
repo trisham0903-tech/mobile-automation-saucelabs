@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Zgs8fkEFIE-EvrmkJj7Q8A" DesignTimeRectangle="128, 311, 135, 16" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Password is required' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Password is required' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Password is required' id='' accessibilityId='' check:text='Password is required' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Password is required' id='' accessibilityId='' check:text='Password is required' /&gt;" Occurence="0" Text="Password is required" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="167, 361, 57, 23" FullSelector="&lt;mbl android:className='android.widget.TextView' text='LOGIN' /&gt;&#xD;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='LOGIN' id='' accessibilityId='' check:text='LOGIN' /&gt;&#xD;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="LOGIN">
+        <imageRef attrName="ImageBase64" xmlns="">1gYXybaLNRU2YRwOb1cbuuw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0yo1ZcZz0Y0eqLoRzo3rPqg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="539de337ed35e66b447df1c525218519.png" xmlns="">0AquHHSi-UEWczrKN3n74-g</imageRef>
+</Target>

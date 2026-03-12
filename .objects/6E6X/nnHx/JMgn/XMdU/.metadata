@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Login' Button",
+  "Description": "This indicates the \"login\" Button in the login page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "XMdUjZvaLka_PnEpOp6B2A",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/XMdUjZvaLka_PnEpOp6B2A",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/JMgn1HNXh0COXTzQ61CdlQ",
+  "Created": "2026-02-10T07:49:52.9734361Z",
+  "Updated": "2026-02-10T07:49:52.9734361Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

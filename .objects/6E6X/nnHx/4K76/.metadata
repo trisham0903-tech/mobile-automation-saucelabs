@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Checkout Complete",
+  "Description": "This page is displayed as rhe last step of checking out the product",
+  "Type": "Screen",
+  "Id": "4K76aaopAU6wk9r82ySD3g",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/4K76aaopAU6wk9r82ySD3g",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T07:29:33.8099422Z",
+  "Updated": "2026-02-10T07:29:33.8099422Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

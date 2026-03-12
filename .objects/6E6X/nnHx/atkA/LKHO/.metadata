@@ -1,0 +1,17 @@
+﻿{
+  "Name": "PageEndTwitter",
+  "Description": "This element indicates the twitter logo at the end of the page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "LKHOpbOgKUCl1QBRY2-yMA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/LKHOpbOgKUCl1QBRY2-yMA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-03-09T07:08:55.4958718Z",
+  "Updated": "2026-03-09T07:09:41.3890945Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

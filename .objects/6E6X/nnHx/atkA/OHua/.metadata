@@ -1,0 +1,18 @@
+﻿{
+  "Name": "First Product in homepage",
+  "Description": "This indicates the first products name with the anchor as the price beneath it",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "OHuaMxfH3EG_oHLyboD16A",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/OHuaMxfH3EG_oHLyboD16A",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T06:17:18.0156964Z",
+  "Updated": "2026-02-10T06:17:39.4129007Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

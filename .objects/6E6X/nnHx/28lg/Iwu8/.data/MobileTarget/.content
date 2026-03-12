@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="CkF3YyCMoU-nD8KfPwbVig" DesignTimeRectangle="25, 643, 342, 36" FriendlyName="Get Text" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Sauce Labs Backpack' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Sauce Labs Backpack' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="Sauce Labs Backpack" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="25, 195, 342, 428" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Item' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Item' id='' text='' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1D2Tz4jdoNkKhwIcx-o-ZVg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0KSSK5mECn0y52qirxpfP1g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c7134be2388de30edd154d72a9d42f8c.png" xmlns="">c7134be2388de30edd154d72a9d42f8c.png</imageRef>
+</Target>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="h4j17e3XbkW_Bt3KRuaixQ" DesignTimeRectangle="145, 655, 101, 23" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT' id='' accessibilityId='' check:text='CHECKOUT' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT' id='' accessibilityId='' check:text='CHECKOUT' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="CHECKOUT" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="99, 589, 194, 23" FullSelector="&lt;mbl android:className='android.widget.TextView' text='CONTINUE SHOPPING' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='CONTINUE SHOPPING' id='' accessibilityId='' check:text='CONTINUE SHOPPING' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="CONTINUE SHOPPING">
+        <imageRef attrName="ImageBase64" xmlns="">1RqvRCYvHW0GV_FzWyT4kGA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0TyrcbqmHIUawES5hgU8IbQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="742d2fdbbe32fe2f5416b443085fa04d.png" xmlns="">742d2fdbbe32fe2f5416b443085fa04d.png</imageRef>
+</Target>

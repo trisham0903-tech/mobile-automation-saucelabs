@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HomeScreen",
+  "Description": "This is the dashboard that we see after login the application\r\n",
+  "Type": "Screen",
+  "Id": "atkAbHgqMEWJtN27HIpzYA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T06:13:10.5652723Z",
+  "Updated": "2026-02-10T06:13:10.5652723Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

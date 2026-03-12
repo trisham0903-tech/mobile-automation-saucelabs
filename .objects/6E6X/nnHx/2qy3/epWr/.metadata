@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Continue Shopping' Button",
+  "Description": "This indicates the \"Continue Shopping\" button in the cart page.\r\n",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "epWrlVike0Wu6ISkX3wGmA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/epWrlVike0Wu6ISkX3wGmA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/2qy3217IAUy-Ayity75sUw",
+  "Created": "2026-02-10T06:52:08.2511243Z",
+  "Updated": "2026-02-10T06:52:08.2511243Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

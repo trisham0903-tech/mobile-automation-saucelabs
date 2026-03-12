@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Last Name Validation Message",
+  "Description": "This is the Validation message that is displayed when the Last Name is left empty in the checkout information page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "bwX9KE1p8EmzUizA_372DA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/bwX9KE1p8EmzUizA_372DA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/kJ1yfjpxBUe2Q2PFR2c6yA",
+  "Created": "2026-02-10T07:40:08.0411604Z",
+  "Updated": "2026-02-10T07:40:08.0411604Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="W9Ks7RApSEiGOv4ZQQ_I5g" DesignTimeRectangle="45, 421, 301, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Price (low to high)' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Price (low to high)' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Price (low to high)' id='' accessibilityId='' check:text='Price (low to high)' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Price (low to high)' id='' accessibilityId='' check:text='Price (low to high)' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="Price (low to high)" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="53, 297, 285, 21" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Sort items by...' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Sort items by...' id='' accessibilityId='' check:text='Sort items by...' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="Sort items by...">
+        <imageRef attrName="ImageBase64" xmlns="">2aaXW3qhPG0SzctLETMtPOQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01KlsOMb27U-RyxFYyTiXtw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9ce10189186f7a6b8c09f8675d4061e0.png" xmlns="">9ce10189186f7a6b8c09f8675d4061e0.png</imageRef>
+</Target>

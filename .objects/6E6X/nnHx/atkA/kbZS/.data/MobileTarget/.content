@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="urq9uSeoc02urHAxNt8FuA" DesignTimeRectangle="49, 525, 107, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-PRODUCTS' /&gt;&lt;mbl android:className='android.widget.TextView' text='ADD TO CART' idx='1' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-PRODUCTS' /&gt;&lt;mbl android:className='android.widget.TextView' text='ADD TO CART' idx='1' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-PRODUCTS' id='' text='' /&gt;&lt;mbl android:className='android.widget.TextView' text='ADD TO CART' id='' accessibilityId='' check:text='ADD TO CART' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.ScrollView' accessibilityId='test-PRODUCTS' id='' text='' /&gt;&lt;mbl android:className='android.widget.TextView' text='ADD TO CART' id='' accessibilityId='' check:text='ADD TO CART' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="ADD TO CART" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="20, 477, 166, 24" FullSelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' text='$29.99' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' text='$29.99' id='' check:text='$29.99' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="$29.99">
+        <imageRef attrName="ImageBase64" xmlns="">1qcKOvv9aqEeB5VnUH57PBw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ZfpBqyWPnk6TKVtBsGLshA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="74ccfeb7f45244f87db292b315e64972.png" xmlns="">74ccfeb7f45244f87db292b315e64972.png</imageRef>
+</Target>

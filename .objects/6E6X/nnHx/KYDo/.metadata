@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Checkout Overview",
+  "Description": "This page is visible when we click the continue button in the checkout Information page",
+  "Type": "Screen",
+  "Id": "KYDo4avRIE2l57Mch4bdiw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/KYDo4avRIE2l57Mch4bdiw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T07:26:46.5650007Z",
+  "Updated": "2026-02-10T07:26:46.5650007Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

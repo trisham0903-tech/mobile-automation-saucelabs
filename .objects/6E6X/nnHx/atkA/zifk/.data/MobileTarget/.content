@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="DXy0K8GY30yFmR_qnWjcbg" DesignTimeRectangle="84, 40, 223, 30" FriendlyName="Element Exists" FullSelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' /&gt;&lt;mbl android:className='android.widget.ImageView' idx='3' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' /&gt;&lt;mbl android:className='android.widget.ImageView' idx='3' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="10, 110, 120, 25" FullSelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' id='' accessibilityId='' check:text='PRODUCTS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="PRODUCTS">
+        <imageRef attrName="ImageBase64" xmlns="">1QKG3OINUjkaY-N9MfnfDEQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ccN7_UZ7102GPZdkX2c3Rw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3826b99b8d26b05399fcc5bb668a6d2f.png" xmlns="">3826b99b8d26b05399fcc5bb668a6d2f.png</imageRef>
+</Target>

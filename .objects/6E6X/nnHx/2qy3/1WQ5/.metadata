@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Checkout' Button",
+  "Description": "This indicates the \"Checkout\" button in the cart\r\n",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "1WQ5Rw4aBkC2m9IuATV-uA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/1WQ5Rw4aBkC2m9IuATV-uA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/2qy3217IAUy-Ayity75sUw",
+  "Created": "2026-02-10T07:19:01.8494501Z",
+  "Updated": "2026-02-10T07:19:01.8494501Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

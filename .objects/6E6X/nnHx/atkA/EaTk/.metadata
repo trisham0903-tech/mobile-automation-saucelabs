@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Cart Icon",
+  "Description": "This indicates the Cart Icon that is present on the top of the home page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "EaTkqHEtRUOjGndRcl2N7A",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/EaTkqHEtRUOjGndRcl2N7A",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T06:46:45.5606941Z",
+  "Updated": "2026-02-10T06:46:45.5606941Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

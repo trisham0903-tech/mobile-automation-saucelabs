@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Remove' Button",
+  "Description": "This indicates the \"Remove\" button for the product in the cart",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "7Un-8QyKBEaGpiCwQeeTmA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/7Un-8QyKBEaGpiCwQeeTmA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/2qy3217IAUy-Ayity75sUw",
+  "Created": "2026-02-10T06:51:14.3783414Z",
+  "Updated": "2026-02-10T06:51:14.3783414Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

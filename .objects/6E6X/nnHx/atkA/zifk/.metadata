@@ -1,0 +1,15 @@
+﻿{
+  "Name": "SwagLabs Title",
+  "Description": "This indicates the \"SWAGLABS\" in the homepage with the anchor as the \"PRODUCTS\"",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zifk8IAuJkKJOEqEev619Q",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/zifk8IAuJkKJOEqEev619Q",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T06:14:41.1334153Z",
+  "Updated": "2026-02-10T06:14:41.1334153Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

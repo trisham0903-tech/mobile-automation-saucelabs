@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Price(Low to High)' button",
+  "Description": "This indicates the option to chose Price(Low to High)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "veWKhxeVd0OGAhwEJOUIww",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/veWKhxeVd0OGAhwEJOUIww",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/EYI2d1T_SUC7_ADGrsuHBQ",
+  "Created": "2026-02-10T09:37:10.0988101Z",
+  "Updated": "2026-02-10T09:37:10.0988101Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

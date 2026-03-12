@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="2JLiJpnUfkSO2GpdYHvQhw" DesignTimeRectangle="124, 411, 143, 16" FriendlyName="Element Exists" FullSelector="&lt;mbl android:className='android.widget.TextView' text='First Name is required' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='First Name is required' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='First Name is required' id='' accessibilityId='' check:text='First Name is required' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='First Name is required' id='' accessibilityId='' check:text='First Name is required' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="First Name is required" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="40, 338, 312, 48" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Zip/Postal Code' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Zip/Postal Code' id='' text='Zip/Postal Code' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="Zip/Postal Code">
+        <imageRef attrName="ImageBase64" xmlns="">1THb-Udf-MU6qzuNNKf3rhg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0eavsR7z8WU68Ajen9nntPQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a5c4a7a72d128cabe32011443be52d58.png" xmlns="">a5c4a7a72d128cabe32011443be52d58.png</imageRef>
+</Target>

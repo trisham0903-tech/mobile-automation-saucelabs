@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Price of First Product",
+  "Description": "This indicates the Price of the first product",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "UsX_7CPsAk2hynzMn68n7A",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/UsX_7CPsAk2hynzMn68n7A",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T09:37:47.8028946Z",
+  "Updated": "2026-02-10T09:37:47.8028946Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

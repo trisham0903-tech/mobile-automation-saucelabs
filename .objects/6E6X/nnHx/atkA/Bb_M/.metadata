@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Products page",
+  "Description": "This indiactes that the home page is displayed",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Bb_M4VMZMk2hFp_QZ0LQaA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/Bb_M4VMZMk2hFp_QZ0LQaA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T07:51:26.605453Z",
+  "Updated": "2026-02-10T07:51:26.605453Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

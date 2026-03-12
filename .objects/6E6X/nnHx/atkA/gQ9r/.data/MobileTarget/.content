@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="bvbi2ModcUGvqTXbTsbHEQ" DesignTimeRectangle="342, 121, 40, 40" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Modal Selector Button' /&gt;&lt;mbl android:className='android.view.ViewGroup' idx='2' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Modal Selector Button' /&gt;&lt;mbl android:className='android.view.ViewGroup' idx='2' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Modal Selector Button' id='' text='' /&gt;&lt;mbl android:className='android.view.ViewGroup' id='' accessibilityId='' text='' check:text='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.view.ViewGroup' accessibilityId='test-Modal Selector Button' id='' text='' /&gt;&lt;mbl android:className='android.view.ViewGroup' id='' accessibilityId='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="10, 129, 120, 25" FullSelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' id='' accessibilityId='' check:text='PRODUCTS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="PRODUCTS">
+        <imageRef attrName="ImageBase64" xmlns="">1BZVfTRmJeki4rp--sytZWA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0eFSqrvcw10u7kJAOrAwedQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="47dc484cbd12b7f5b7a3732e52030617.png" xmlns="">47dc484cbd12b7f5b7a3732e52030617.png</imageRef>
+</Target>

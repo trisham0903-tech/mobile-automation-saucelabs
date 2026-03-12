@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="EgrgCq3IukCqk1tVFeAH_A" DesignTimeRectangle="70, 234, 312, 32" FriendlyName="Get Text" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Sauce Labs Backpack' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Sauce Labs Backpack' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="Sauce Labs Backpack" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="84, 165, 298, 27" FullSelector="&lt;mbl android:className='android.widget.TextView' text='DESCRIPTION' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='DESCRIPTION' id='' accessibilityId='' check:text='DESCRIPTION' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="DESCRIPTION">
+        <imageRef attrName="ImageBase64" xmlns="">1LsL4q6R_IUacwCrjO8eaLQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0sZpaQnyfdk-pNM-5PIet0g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c358261ea3ea23acc00a90cc631c3fab.png" xmlns="">c358261ea3ea23acc00a90cc631c3fab.png</imageRef>
+</Target>

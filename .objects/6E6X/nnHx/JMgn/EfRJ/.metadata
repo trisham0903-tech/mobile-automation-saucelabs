@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'User Name' Text Field",
+  "Description": "This indicates the User Name text field in Login page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "EfRJk77bAEirlyF7LxoENw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/EfRJk77bAEirlyF7LxoENw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/JMgn1HNXh0COXTzQ61CdlQ",
+  "Created": "2026-02-10T07:45:49.7158112Z",
+  "Updated": "2026-02-10T07:45:49.7158112Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

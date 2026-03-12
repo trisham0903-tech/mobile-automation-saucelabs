@@ -1,0 +1,14 @@
+﻿{
+  "Name": "\"UserName required\" error mesage",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zuzuUkKkMEOEfsSGodr-ig",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/zuzuUkKkMEOEfsSGodr-ig",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/JMgn1HNXh0COXTzQ61CdlQ",
+  "Created": "2026-03-09T10:07:28.4100626Z",
+  "Updated": "2026-03-09T10:07:28.4100626Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

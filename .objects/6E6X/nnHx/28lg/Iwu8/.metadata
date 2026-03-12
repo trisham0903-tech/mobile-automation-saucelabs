@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Product Name",
+  "Description": "This indicates the product name in the first product page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Iwu8e6FwYUONVgfjUIdnMg",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/Iwu8e6FwYUONVgfjUIdnMg",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/28lgFcO39EiDPHmaD084YQ",
+  "Created": "2026-02-10T06:21:29.888047Z",
+  "Updated": "2026-02-10T06:21:29.888047Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

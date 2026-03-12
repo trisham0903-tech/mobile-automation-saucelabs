@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="LsKNKCe7kU-KPFdSyZ4c2g" DesignTimeRectangle="10, 129, 120, 25" FriendlyName="Element Exists" FullSelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' id='' accessibilityId='' check:text='PRODUCTS' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='PRODUCTS' id='' accessibilityId='' check:text='PRODUCTS' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="PRODUCTS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="84, 59, 223, 30" FullSelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' idx='3' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' accessibilityId='' text='' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageView' id='' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">182dqMHnOG0Cq2qN8-Suj3A</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0zpPXd_Gf2UqfQ7t5GXjODA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="234ac6b26aec09410ff1ba4bbcc49cb8.png" xmlns="">234ac6b26aec09410ff1ba4bbcc49cb8.png</imageRef>
+</Target>

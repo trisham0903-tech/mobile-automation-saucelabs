@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Filter Icon",
+  "Description": "This indicates the Filter Icon that is present in the home page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "gQ9rNaELkEqG8q6luH92rQ",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/gQ9rNaELkEqG8q6luH92rQ",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T09:35:40.5068884Z",
+  "Updated": "2026-02-10T09:35:40.5068884Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

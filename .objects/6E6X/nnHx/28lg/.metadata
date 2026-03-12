@@ -1,0 +1,13 @@
+﻿{
+  "Name": "First Product  Page",
+  "Description": "This is the page that opens when clicking the first product that appears in the home page",
+  "Type": "Screen",
+  "Id": "28lgFcO39EiDPHmaD084YQ",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/28lgFcO39EiDPHmaD084YQ",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T06:20:48.4144176Z",
+  "Updated": "2026-02-10T06:20:48.4144176Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

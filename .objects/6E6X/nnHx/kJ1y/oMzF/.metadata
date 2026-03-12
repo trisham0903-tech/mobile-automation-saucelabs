@@ -1,0 +1,15 @@
+﻿{
+  "Name": "First Name Validation Message",
+  "Description": "This is the error message that is displayed when userName is left empty",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "oMzF2y69rEq_ZrLP2wAVqw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/oMzF2y69rEq_ZrLP2wAVqw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/kJ1yfjpxBUe2Q2PFR2c6yA",
+  "Created": "2026-02-10T07:38:21.6390924Z",
+  "Updated": "2026-02-10T07:38:21.6390924Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

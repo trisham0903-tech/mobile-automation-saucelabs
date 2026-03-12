@@ -1,0 +1,6 @@
+{
+  "Name": "QA.Mobile.SwagLabs.TestAutomation",
+  "ProjectType": "Tests",
+  "Description": "UiPath-based mobile automation project for validating Swag Labs application using Sauce Labs devices, with externalized configuration, reusable components, and execution traceability.",
+  "MainFile": ""
+}

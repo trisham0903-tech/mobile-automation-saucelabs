@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Thank You For Your Order' Text",
+  "Description": "This indicates the \"Thank you for your order\" text displayed in the Checkout complete page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "W_2Ix3r-vUWF0DsXpf0uVw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/W_2Ix3r-vUWF0DsXpf0uVw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/4K76aaopAU6wk9r82ySD3g",
+  "Created": "2026-02-10T07:29:42.9899984Z",
+  "Updated": "2026-02-10T07:29:42.9899984Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

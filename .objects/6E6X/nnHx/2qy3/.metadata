@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Cart",
+  "Description": "This indicates the screen that appears when the cart icon is clicked\r\n",
+  "Type": "Screen",
+  "Id": "2qy3217IAUy-Ayity75sUw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/2qy3217IAUy-Ayity75sUw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T06:48:02.2669144Z",
+  "Updated": "2026-02-10T06:48:28.1482992Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

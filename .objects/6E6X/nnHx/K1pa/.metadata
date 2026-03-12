@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Menu Option",
+  "Description": "This is the Menu option opened when clicking the Menu Icon in Home page",
+  "Type": "Screen",
+  "Id": "K1paHH_MNUCaVgVPo6v0Cw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/K1paHH_MNUCaVgVPo6v0Cw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/nnHxF8WCHEW1VZPiCethXg",
+  "Created": "2026-02-10T09:32:18.4756181Z",
+  "Updated": "2026-02-10T09:32:18.4756181Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

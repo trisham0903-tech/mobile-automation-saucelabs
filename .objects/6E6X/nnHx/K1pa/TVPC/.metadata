@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Logout' Button",
+  "Description": "This is the Logout option that is present in the Menu option \r\n",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "TVPCQvbZT0G8J5v0UgFhGw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/TVPCQvbZT0G8J5v0UgFhGw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/K1paHH_MNUCaVgVPo6v0Cw",
+  "Created": "2026-02-10T09:33:05.6554248Z",
+  "Updated": "2026-02-10T09:33:05.6554248Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

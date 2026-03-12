@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Menu Icon",
+  "Description": "This indicates the Menu Icon that is present in the home page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "9GfO_iMOXkeivRYUhDZ3-w",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/9GfO_iMOXkeivRYUhDZ3-w",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T09:31:22.8940801Z",
+  "Updated": "2026-02-10T09:31:22.8940801Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

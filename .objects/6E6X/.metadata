@@ -1,0 +1,15 @@
+﻿{
+  "Name": "SwagLabs",
+  "Description": "This is a demo E-Commerce Application used in this demonstartion",
+  "Type": "App",
+  "Id": "6E6XQCNlGk6BgZ0FW0pLKg",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/6E6XQCNlGk6BgZ0FW0pLKg",
+  "Created": "2026-02-09T12:17:34.9786408Z",
+  "Updated": "2026-02-10T06:12:28.9113097Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

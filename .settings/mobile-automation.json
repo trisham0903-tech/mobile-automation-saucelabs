@@ -1,0 +1,56 @@
+{
+  "GenerateCrossPlatformAttributes": false,
+  "GenerateSelectorsForInnerElements": true,
+  "Connections": [
+    {
+      "Name": "SauceLabsDemo",
+      "Description": null,
+      "Url": "https://oauth-trisham0903-c1327:6618469b-2a8e-4cb0-bacc-a34bfa6b3548@ondemand.eu-central-1.saucelabs.com:443/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "11.0",
+      "DeviceName": "Google Pixel 4 Emulator",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {
+        "newCommandTimeout": "0"
+      },
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": false,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      },
+      "HttpHeaders": {},
+      "CvServer": null,
+      "CvApiKey": null,
+      "CvUseLocalServer": false,
+      "UseExistingSession": true
+    }
+  ],
+  "Applications": [
+    {
+      "$id": "1",
+      "Name": "SwagLabsDemo",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "app": "storage:94f763ee-726a-41f5-bd50-879bc06ff37c",
+            "appActivity": "com.swaglabsmobileapp.MainActivity",
+            "appPackage": "com.swaglabsmobileapp"
+          },
+          "StartPage": null
+        }
+      }
+    }
+  ],
+  "NormalizeSliderValue": false,
+  "IdsMaxAllowedLength": 40,
+  "LogsPath": "%TEMP%\\UiPath Mobile Automation Logs",
+  "Variables": {},
+  "HttpHeaders": {}
+}

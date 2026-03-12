@@ -1,0 +1,124 @@
+{
+  "name": "QA.Mobile.SwagLabs.TestAutomation",
+  "projectId": "4929df46-f3a1-4e81-b7ec-91d78010e537",
+  "description": "UiPath-based mobile automation project for validating Swag Labs application using Sauce Labs devices, with externalized configuration, reusable components, and execution traceability.",
+  "main": "",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[3.3.1]",
+    "UiPath.MobileAutomation.Activities": "[25.10.0]",
+    "UiPath.System.Activities": "[25.12.1]",
+    "UiPath.Testing.Activities": "[25.10.0]",
+    "UiPath.WebAPI.Activities": "[2.3.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.186.0",
+  "projectVersion": "1.0.21",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bc9283a1-dc23-4f5a-b3f2-303c0e97755f",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_AddToCart_MoveProductToCart.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "25324e78-c0f0-40ba-bcf8-542acb235dcc",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Checkout_EmptyUserDetailsValidation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "10331832-5d07-4812-802f-97a4470f7bc7",
+        "dataVariationFilePath": ".variations\\CheckoutQueue_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Checkout_SuccessfulCheckout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "977e9c2f-80f3-4052-a06e-372e3ce83b7d",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Checkout_UsingDataQueue.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "aad7f541-9e3b-442f-88d5-2cd5bdcf59e9",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Login_InvalidCredentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a287059f-5b58-4d85-8199-886da9cbb4e9",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Login_ValidCredentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8c4d1e2d-2e00-4ccd-8981-498ffcd03b75",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Logout_SuccessfulLogout.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e98ed4db-f914-4166-b6d0-6a0f01a5296e",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\TC_Sort_PriceLowToHigh.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2312f372-302b-46d2-8c6d-6f97c7d8d229",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TC_ProductView_ProductCountAndDuplicateProduct.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "396c98c1-8a6c-41fa-9d5f-5da522f4f11b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TC_Homepage_ScrollabilityCheck.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c2173219-281f-4545-a05d-83b4c830d9f2",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TC_Login_EmptyCredentials.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

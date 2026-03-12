@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="NgbOiTiAk0yNwKN4tdBZ2g" DesignTimeRectangle="206, 497, 166, 24" FriendlyName="Get Text" FullSelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' text='$9.99' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' text='$9.99' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' id='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Price' id='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="$9.99" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="206, 422, 166, 42" FullSelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Item title' text='Sauce Labs Bike Light' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='test-Item title' text='Sauce Labs Bike Light' id='' check:text='Sauce Labs Bike Light' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="Sauce Labs Bike Light">
+        <imageRef attrName="ImageBase64" xmlns="">16RRwbF7vOkepeFG5EJ24tw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0i9kRfU0-eUSNVaWSQndGTA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b14e36b26c31902f99e710041726149c.png" xmlns="">b14e36b26c31902f99e710041726149c.png</imageRef>
+</Target>

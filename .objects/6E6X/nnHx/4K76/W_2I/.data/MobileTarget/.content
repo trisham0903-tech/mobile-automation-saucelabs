@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="_lQvcaQk4E23B1nafBhDwg" DesignTimeRectangle="20, 190, 352, 26" FriendlyName="Get Text" FullSelector="&lt;mbl android:className='android.widget.TextView' text='THANK YOU FOR YOU ORDER' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='THANK YOU FOR YOU ORDER' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' id='' accessibilityId='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="THANK YOU FOR YOU ORDER" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="10, 110, 260, 25" FullSelector="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT: COMPLETE!' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='CHECKOUT: COMPLETE!' id='' accessibilityId='' check:text='CHECKOUT: COMPLETE!' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="CHECKOUT: COMPLETE!">
+        <imageRef attrName="ImageBase64" xmlns="">1TroaIifwhUOyRzonBREd3g</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PCJzHxFi_U-sS2tAB4uY5w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a25b3fe85ffe3d1284e7a12d3fdbdb88.png" xmlns="">a25b3fe85ffe3d1284e7a12d3fdbdb88.png</imageRef>
+</Target>

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Finish' Button",
+  "Description": "This indicates the \"Finish\" button present in the Checkout overview page \r\n",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "J2AQErCeyE2fDy7TxF01oA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/J2AQErCeyE2fDy7TxF01oA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/KYDo4avRIE2l57Mch4bdiw",
+  "Created": "2026-02-10T07:27:37.2751304Z",
+  "Updated": "2026-02-10T07:27:37.2751304Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

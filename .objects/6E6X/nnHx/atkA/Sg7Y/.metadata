@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Price Of Second Product",
+  "Description": "This indicates the price of second\r\n product",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Sg7Yzpr1qk67mhmfJVOVDg",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/Sg7Yzpr1qk67mhmfJVOVDg",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T09:39:37.858657Z",
+  "Updated": "2026-02-10T09:39:37.858657Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

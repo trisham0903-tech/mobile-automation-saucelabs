@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="rypuN0TlsEWfiBLpydFY-w" DesignTimeRectangle="148, 563, 96, 23" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='CONTINUE' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='CONTINUE' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='CONTINUE' id='' accessibilityId='' check:text='CONTINUE' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='CONTINUE' id='' accessibilityId='' check:text='CONTINUE' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="CONTINUE" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="160, 497, 72, 23" FullSelector="&lt;mbl android:className='android.widget.TextView' text='CANCEL' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='CANCEL' id='' accessibilityId='' check:text='CANCEL' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="CANCEL">
+        <imageRef attrName="ImageBase64" xmlns="">14d50E805Bky4UuDgLhy6uw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0kTUmBFQOokCpm43NkWh2mQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c6542fc416ec667744ca1f3d2abab486.png" xmlns="">c6542fc416ec667744ca1f3d2abab486.png</imageRef>
+</Target>

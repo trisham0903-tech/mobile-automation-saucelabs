@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Afh1tMXv9ke8LRLeBqV4gQ" DesignTimeRectangle="120, 411, 151, 16" FriendlyName="Element Exists" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Postal Code is required' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Postal Code is required' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Postal Code is required' id='' accessibilityId='' check:text='Postal Code is required' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Postal Code is required' id='' accessibilityId='' check:text='Postal Code is required' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="Postal Code is required" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="40, 338, 282, 48" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Zip/Postal Code' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Zip/Postal Code' id='' text='Zip/Postal Code' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="Zip/Postal Code">
+        <imageRef attrName="ImageBase64" xmlns="">161CsLEpBXUaB5DB09LdwVA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0dWHaWIJdpECqoNOT46Rybg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="13ed232e95caead62378f27802acef07.png" xmlns="">13ed232e95caead62378f27802acef07.png</imageRef>
+</Target>

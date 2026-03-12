@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Remove' Button",
+  "Description": "This indicates the \"Remove\" button in the first product's page",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "wDtNNviaaU6G2lPIwsxBAA",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/wDtNNviaaU6G2lPIwsxBAA",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/28lgFcO39EiDPHmaD084YQ",
+  "Created": "2026-02-10T06:44:09.2924059Z",
+  "Updated": "2026-02-10T06:44:09.2924059Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "'Add To Cart' For First Product",
+  "Description": "This indicates the \"Add to Cart\" button for the first product in home page\r\n",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "kbZSg2_tL0-LWBmFiwCUZw",
+  "Reference": "D8S5eexTOU-isEHPu_WcxQ/kbZSg2_tL0-LWBmFiwCUZw",
+  "ParentRef": "D8S5eexTOU-isEHPu_WcxQ/atkAbHgqMEWJtN27HIpzYA",
+  "Created": "2026-02-10T07:16:27.4037178Z",
+  "Updated": "2026-02-10T07:16:27.4037178Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

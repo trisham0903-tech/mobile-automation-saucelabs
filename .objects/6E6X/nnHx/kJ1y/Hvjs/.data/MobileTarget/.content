@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="kXVBtjuQ3EaExmdk9gJ9ww" DesignTimeRectangle="40, 266, 312, 48" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Last Name' /&gt;" FullSelectorArgument="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Last Name' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Last Name' id='' text='Last Name' /&gt;" FuzzySelectorArgument="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-Last Name' id='' text='Last Name' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="Last Name" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="40, 195, 312, 48" FullSelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-First Name' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' accessibilityId='test-First Name' id='' text='First Name' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image, CV" Text="First Name">
+        <imageRef attrName="ImageBase64" xmlns="">7Pe4lhZRQ5E-VvFQx8zPTdg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">06h4xI4GgLku-4UxXVHIreg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7458888994e494259c6298939be0e4bb.png" xmlns="">7458888994e494259c6298939be0e4bb.png</imageRef>
+</Target>
