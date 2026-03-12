@@ -9,19 +9,11 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '6.0.x'
-
-      - name: Install UiPath CLI
-        shell: powershell
-        run: |
-          Invoke-WebRequest https://github.com/UiPath/uipathcli/releases/latest/download/uipathcli-windows.zip -OutFile uipathcli.zip; Expand-Archive uipathcli.zip -DestinationPath uipathcli
-
       - name: Pack UiPath Project
-        run: |
-          uipath pack project.json --output ./output
+        uses: UiPath/pack@v2
+        with:
+          project_path: .
+          output_path: output
