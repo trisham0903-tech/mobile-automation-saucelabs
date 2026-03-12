@@ -8,17 +8,16 @@ jobs:
  build:
   runs-on: windows-latest
 
+
   steps:
   - name: Checkout repository
     uses: actions/checkout@v4
 
-  - name: Download UiPath CLI
-    shell: pwsh
-    run: |
-      Invoke-WebRequest -Uri "https://download.uipath.com/cli/latest/uipath-cli-windows.zip" -OutFile "cli.zip"
-      Expand-Archive cli.zip -DestinationPath cli
+  - name: Setup UiPath CLI
+    uses: UiPath/setup-uipath-cli@v1
 
   - name: Pack UiPath Project
     shell: pwsh
     run: |
-      .\cli\uipath.exe pack .
+      uipath pack .
+
