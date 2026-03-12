@@ -106,7 +106,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="502,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;The Add to Cart Flow has started&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="502,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;The Add to Cart Flow has started.&quot;]" />
     <uma:MobileDeviceConnection CollectPageSource="{x:Null}" CollectScreenshot="{x:Null}" CvApiKey="{x:Null}" CvServer="{x:Null}" CvUseLocalServer="{x:Null}" MirroringEnabled="{x:Null}" StartPage="{x:Null}" sap2010:Annotation.AnnotationText="Connects to the Sauce Labs mobile device and manages the Appium session. This activity ensures session reuse across test cases to optimize execution time." AppiumUrl="[strAppiumURL]" Close="Never" DisplayName="Launch SwagLabs Application" sap:VirtualizedContainerService.HintSize="502,3383.3333333333335" sap2010:WorkflowViewState.IdRef="MobileDeviceConnection_2" InputConnection="[in_mobSession]" LoggingEnabled="False" LoggingFolderPath="C:\Users\TRISHA~1\AppData\Local\Temp\UiPath Mobile Automation Logs" SingleInstanceForDevelopment="True" UseExistingOpenConnection="True" VideoRecordingEnabled="False" VideoRecordingQuality="Normal" VideoRecordingTimeLimit="600" WaitForPageUpdateDevelopment="True">
       <uma:MobileDeviceConnection.Arguments>
         <InArgument x:TypeArguments="x:String" x:Key="platformName">[strPlatformName]</InArgument>
