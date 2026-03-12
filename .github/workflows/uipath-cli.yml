@@ -1,4 +1,4 @@
-name: UiPath CI Pipeline
+name: UiPath CI/CD Pipeline
  
 on:
   push:
@@ -9,6 +9,7 @@ jobs:
     runs-on: windows-latest
  
     steps:
+ 
       - name: Checkout repository
         uses: actions/checkout@v4
  
@@ -17,9 +18,15 @@ jobs:
           Invoke-WebRequest https://uipath.pkgs.visualstudio.com/Public.Feeds/_apis/packaging/feeds/UiPath-Internal/nuget/packages/UiPath.CLI.Windows/versions/23.10.0/content -OutFile uipathcli.zip
         shell: powershell
  
-      - name: Extract UiPath CLI
+      - name: Extract CLI
         run: Expand-Archive uipathcli.zip -DestinationPath uipathcli
         shell: powershell
  
-      - name: Pack UiPath project
-        run: .\uipathcli\uipath.exe pack .
+      - name: Pack UiPath Project
+        run: .\uipathcli\uipath.exe pack . --output ./package
+ 
+      - name: Upload Package Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: uipath-package
+          path: package/*.nupkg
