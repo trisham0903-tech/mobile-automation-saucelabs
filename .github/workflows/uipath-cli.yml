@@ -19,7 +19,7 @@ jobs:
 
       - name: Install UiPath CLI
         run: |
-          choco install uipath-cli
+          curl -L https://github.com/UiPath/uipathcli/releases/latest/download/uipathcli-windows.zip -o uipathcli.zip powershell Expand-Archive uipathcli.zip -DestinationPath uipathcli
 
       - name: Pack UiPath Project
         run: |
