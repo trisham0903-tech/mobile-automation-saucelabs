@@ -1,4 +1,4 @@
-name: UiPath CI Pipeline
+name: UiPath CI
 
 on:
   push:
@@ -9,11 +9,11 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Pack UiPath Project
-        uses: UiPath/pack@v2
-        with:
-          project_path: .
-          output_path: output
+      - name: Setup UiPath CLI
+        uses: UiPath/setup-uipath-cli@v1
+
+      - name: Pack UiPath project
+        run: uipath pack .
